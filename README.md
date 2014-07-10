@@ -11,6 +11,7 @@ My super small and super simple dotfiles, just my must-have configs.
 * Useful aliases.
 * Git useful shortcuts.
 * Minimal VIM configuration.
+* Nice other small hacks.
 * Add server specific configurations in `.extra` file in your home.
 
 ## Credits
