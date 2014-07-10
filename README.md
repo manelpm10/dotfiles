@@ -15,4 +15,5 @@ My super small and super simple dotfiles, just my must-have configs.
 
 ## Credits
 * @mathias [dotfiles](https://github.com/mathiasbynens/dotfiles)
+* @holman [dotfiles](https://github.com/holman/dotfiles)
 
