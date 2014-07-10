@@ -1,0 +1,6 @@
+# Easier navigation: .. to go back
+alias ..="cd .."
+
+# Lists
+alias l="ls"
+alias ll="ls -laF"
