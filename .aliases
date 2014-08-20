@@ -8,3 +8,7 @@ alias ll="ls -laF"
 # Pipe my public key to my clipboard.
 alias pubkey="more ~/.ssh/id_rsa.pub | pbcopy | echo '=> Public key copied to pasteboard.'"
 
+# Safe copy, move and remove.
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
