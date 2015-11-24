@@ -8,6 +8,11 @@ for file in ~/.{bash_prompt,aliases,extra}; do
 done;
 unset file;
 
+# Git autocomplete branche names pressing TAB
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
+fi
+
 # Autocorrect typos in path names when using `cd`
 shopt -s cdspell;
 
